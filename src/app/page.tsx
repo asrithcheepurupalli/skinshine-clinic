@@ -707,6 +707,11 @@ export default function HomePage() {
                   </a>
                 </li>
                 <li>
+                  <a href="mailto:hello@skinshineclinic.com" className="hover:text-white transition-colors">
+                    hello@skinshineclinic.com
+                  </a>
+                </li>
+                <li>
                   <a href="mailto:dr.jyothsna@gmail.com" className="hover:text-white transition-colors">
                     dr.jyothsna@gmail.com
                   </a>
