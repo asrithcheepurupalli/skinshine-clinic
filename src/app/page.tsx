@@ -712,8 +712,8 @@ export default function HomePage() {
                   </a>
                 </li>
                 <li>
-                  <a href="mailto:dr.jyothsna@gmail.com" className="hover:text-white transition-colors">
-                    dr.jyothsna@gmail.com
+                  <a href="mailto:dr.jyothsna.skinshine@gmail.com" className="hover:text-white transition-colors">
+                    dr.jyothsna.skinshine@gmail.com
                   </a>
                 </li>
               </ul>
